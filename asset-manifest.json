@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/RTQlearningproject/static/css/main.8a685450.css",
-    "main.js": "/RTQlearningproject/static/js/main.661a2ce1.js",
+    "main.js": "/RTQlearningproject/static/js/main.6249f71a.js",
     "index.html": "/RTQlearningproject/index.html",
     "main.8a685450.css.map": "/RTQlearningproject/static/css/main.8a685450.css.map",
-    "main.661a2ce1.js.map": "/RTQlearningproject/static/js/main.661a2ce1.js.map"
+    "main.6249f71a.js.map": "/RTQlearningproject/static/js/main.6249f71a.js.map"
   },
   "entrypoints": [
     "static/css/main.8a685450.css",
-    "static/js/main.661a2ce1.js"
+    "static/js/main.6249f71a.js"
   ]
 }
